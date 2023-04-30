@@ -1,0 +1,14 @@
+begin
+{
+int a=12;
+str n="a is even number";
+str m="a is odd number";
+int c=a-2*(a/2);
+if ( c == 0) {
+print(n);
+}
+else {
+print(m);
+}
+}
+end

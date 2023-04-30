@@ -1,0 +1,24 @@
+CONTRIBUTION:
+
+Milestone1:
+Srilakshmi Sravani Andaluri - Designed Grammer rules
+Vamsi Krishna Somepalli - Designed grammer rules and designed overflow
+Sathwik Reddy Dontham - Documentation and designed overflow
+Saish Vemulapalli - Designed grammer rules and documentation
+Rohith Reddy Byreddy - Designed Grammer rules
+
+Milestone2:
+Grammar: Sathwik Reddy, Sravani
+Parser(Token Generation): Vamsi Somepalli, Rohith Reddy, Saish Vemulapalli
+Evaluation: Sathwik Reddy, Sravani, Vamsi Somepalli, Rohith Reddy, Saish Vemulapalli
+Testing: Vamsi Somepalli, Rohith Reddy
+Shell Script: Sathwik Reddy, Rohith Reddy
+Presentation: Saish Vemulapalli, Rohith Reddy
+Documentation: Sravani Andaluri, Vamsi Somepalli
+
+Overall Contribution:
+Sathwik Reddy Dontham - Grammar Design, Initial Grammar, Added evals, Shell Script.
+Vamsi Krishna Somepalli - Grammar Design, Grammar, Added evals, Testing, Documentation.
+Rohith Reddy Byreddy - Grammar design, parse tree generation from files, added evals, test cases.
+Srilakshmi Sravani Andaluri - Initial Grammar, added evals, parse tree evaluation, test cases, Documentation.
+Saish Vemulapalli - Grammar, added evals, testing, presentation.

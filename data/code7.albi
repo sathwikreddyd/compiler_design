@@ -1,0 +1,24 @@
+begin
+{
+int x=5;
+int y=10;
+int z=0;
+if(x > 0 and y > 0)
+{
+str a="And operation";
+print(a);
+}
+if(x > 0 or y < 0)
+{
+str b="Or operation";
+print(b);
+}
+if(not z != 0)
+{
+str c="Not operation";
+print(c);
+}
+bool x=true;
+print(x);
+}
+end

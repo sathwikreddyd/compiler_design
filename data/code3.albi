@@ -1,0 +1,11 @@
+begin
+{
+int a=5;
+int b=6;
+str s="greater number:";
+int c=0;
+a<b?{c=b;}:{c=a;}
+print(s);
+print(c);
+}
+end

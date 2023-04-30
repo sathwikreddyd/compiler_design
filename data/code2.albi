@@ -1,0 +1,26 @@
+begin
+{
+int n=15;
+int m=3;
+int s=n+m;
+int p=n-m;
+int q=n*m;
+int r=n/m;
+int aa=n%m;
+str a= "Addition:";
+print (a);
+print (s);
+str b="Substraction:";
+print (b);
+print (p);
+str c="Multiplication:";
+print (c);
+print (q);
+str d="Division:";
+print (d);
+print (r);
+str bb="reminder";
+print(bb);
+print(aa);
+}
+end
